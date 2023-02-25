@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <main>
+      <h1> <p style="color: rgb(202, 202, 59);">Locately.</p></h1>
+      <section>
+        <h2>Encuentra las cosas perdidas en el campus con nuestra sencilla pagina</h2>
+        <p>No olvides visitar la pagina oficial <a target="_blank" href="http://www.cucei.udg.mx/">CUCEI</a> y tendras las noticias acerca de la universidad.</p>
+        <a href="http://www.cucei.udg.mx/"><img src="https://irs0.4sqi.net/img/general/600x600/47116079_4SW0MM9WnF-PpPRbYAXSDTEkGy2X18nv5yFIjyFiw3o.jpg" alt="Campus CUCEI."></a>
+      </section>
+      <section>
+        <h2>La comunidad de CUCEI estara mas junta que nunca apoyandote para regresar las cosas extraviadas</h2>
+        <figure>
+            <img src="https://akifrases.com/frases-imagenes/frase-un-idealista-es-una-persona-que-ayuda-a-otra-a-ser-prospera-henry-ford-136902.jpg" alt="Frase mamalona.">
+            <figcaption> <em>Recuerda ser siempre honesto con tus compañeros del campus. </em> </figcaption>  
+          </figure>
+        <h3>Cosas que mas comunes se pierden en el campus son:</h3>
+        <ul>
+          <li><strong> Llaves </strong></li>
+          <li><strong> Celulares </strong></li>
+          <li><strong> Dinero </strong></li>
+        </ul>
+        <h2>Pocas personas devuelven lo encontrado</h2>
+        <h3>¿Sabias que mexico es de los pocos paises que devuelven lo extraviado?</h3>
+        <p> Mas informacion acerca de esto <a target="_blank" href="https://www.forbes.com.mx/mexico-queda-penultimo-en-experimento-social-de-honestidad/"> AQUI</a> </p>
+        <figure>
+          <img src="http://images3.memedroid.com/images/UPLOADED370/60ad059e3c7a2.jpeg" alt="Uy 5 pesos.">
+        </figure>
+      </section>
+      <section>
+        <h2>¿Que encontraste?</h2>
+        <form action="https://youtu.be/dQw4w9WgXcQ">
+          <fieldset>
+            <legend>Marca las casillas de lo que encontraste</legend>
+            <input id="llaves" type="checkbox" name="extraviado"> <label for="llaves">Llaves</label>
+            <input id="celulares" type="checkbox" name="extraviado"> <label for="celulares">Celulares</label>
+            <input id="dinero" type="checkbox" name="extraviado"> <label for="dinero">Dinero</label>
+            <input id="otro" type="checkbox" name="extraviado"> <label for="otro">Otro</label>
+          </fieldset>
+          <input type="text" name="compartir" placeholder="Compartir" required>
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
